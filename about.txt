@@ -1,0 +1,4 @@
+Name: Tejaswi Mudili
+Course: BSc Computer Science
+About GitHub: 
+I have learned that GitHub is platform where we can store git projects.
